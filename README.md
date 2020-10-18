@@ -16,19 +16,19 @@
 
 ---
 
-## 🤝 Olá pessoal!
+##  Olá
 
 Para deixar esse projeto mais organizado, Eu movi as aplicações **(api rest, cliente web, cliente mobile)** para 3 repositórios diferentes.
 
 >Abaixo estão os links para acessá-los:
 
-- [API Rest](https://github.com/raphabarreto/happy-server)
-- [Web](https://github.com/raphabarreto/happy-web)
-- [Mobile](https://github.com/raphabarreto/happy-mobile)
+- [API Rest](https://github.com/AndreVTavares/NLW3happy-server)
+- [Web](https://github.com/AndreVTavares/NLW3happy-web)
+- [Mobile](https://github.com/AndreVTavares/NLW3happy-mobile)
 
 ---
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -41,7 +41,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-## 💻 Projeto
+##  Projeto
 Projeto desenvolvido durante a <strong>Next Level Week</strong> que tem como objetivo fins sociais.
 O <strong>Happy</strong> serve como uma plaforma de conexão com instituições de orfanatos.
 
@@ -50,14 +50,14 @@ O <strong>Happy</strong> serve como uma plaforma de conexão com instituições 
 
 
 
-## 🔥 Instalação
+##  Instalação
 
 ```bash
 Visite cada repositório que contém um README, explicando o passo a passo.
 ```
 ---
 
-## 🤔 Como contribuir
+##  Como contribuir
 
 1. Faça um fork desse repositório;
 2. Cria uma branch com a sua feature: `git checkout -b minha-feature`;
@@ -67,7 +67,7 @@ Visite cada repositório que contém um README, explicando o passo a passo.
 >Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 ---
 
-## 🧾 Licença
+##  Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
