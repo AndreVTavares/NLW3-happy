@@ -1,7 +1,7 @@
 # NLW3-happy
 
 <h1 align="center">
-  <img alt="Happy" title="#delicinha" src="happy.png" width="450px" />
+  <img alt="Happy"  src="happy.png" width="450px" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ##  Olá
 
-Para deixar esse projeto mais organizado, Eu movi as aplicações **(api rest, cliente web, cliente mobile)** para 3 repositórios diferentes.
+As aplicações estão separadas em 3 repositórios: API, Web e Mobile
 
 >Abaixo estão os links para acessá-los:
 
@@ -42,11 +42,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ---
 
 ##  Projeto
-Projeto desenvolvido durante a <strong>Next Level Week</strong> que tem como objetivo fins sociais.
-O <strong>Happy</strong> serve como uma plaforma de conexão com instituições de orfanatos.
+Esse projeto foi desenvolvido durante a <strong>Next Level Week</strong> evento gratuito realizado pela Rocketseat.
+O <strong>Happy</strong> serve como uma plataforma conexão de pessoas com os orfanatos da região, levando informação de como melhor visitar os locais.
 
 ---
 
+<h1 align="center">
+  <img alt="Happy"  src="happy-screens.png" width="650px" />
+</h1>
 
 
 
